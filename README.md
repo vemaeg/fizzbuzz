@@ -50,7 +50,7 @@ OK (200 tests, 400 assertions)
 
 ## Aufgabe 3
 
-Schreibe nun ein Programm `public/fizzbuzz.php`, dass die Anforderungen unter Nutzung der
+Schreibe nun ein Programm `public/fizzbuzz.php`, das die Anforderungen unter Nutzung der
 implementierten Klasse `FizzBuzz` erfüllt.
 
 Führe das Programm anschließend aus:
@@ -91,7 +91,7 @@ Wie würdest du bei den neuen Anforderungen vorgehen?
 Erweitere das Programm so, dass man beim Ausführen des Programms ein weiteren Argument
 `--output` übergeben kann, um die Ausgabe zu kontrollieren.
 
-Gibt man das Argument `--type=json` an, so soll das Programm die Zahlen als JSON-String zurück
+Gibt man das Argument `--output=json` an, so soll das Programm die Zahlen als JSON-String zurück
 liefern. Der JSON-String muss nach der Dekodierung ein indiziertes Array ergeben.
 
 Führe das Programm anschließend aus und kontrolliere die Ausgabe:
